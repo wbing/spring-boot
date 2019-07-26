@@ -3,6 +3,7 @@ Spring boot 整合
 
 > 整合swagger2 
 
+http://xx.xx.xx/doc.html
 > redis单机安装
 
 ```sbtshell
